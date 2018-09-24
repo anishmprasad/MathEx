@@ -4,7 +4,7 @@ A CKEditor Plugin for MathML and Latex Mathemathical Expressions
 
 Editor accepted string format from input
 
-default class was math if you change this you need to configure through ``` mathJaxClass ```
+default class was math if you change this you need to configure through ``` mathexClass ```
 
 ```html
 
