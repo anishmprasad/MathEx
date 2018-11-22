@@ -4,6 +4,8 @@ A CKEditor Plugin for MathML and Latex Mathemathical Expressions
 
 Editor accepted string format from input
 
+Download mathex plugin from [CKEditor Addons](https://ckeditor.com/cke4/addon/MathEx)
+
 default class was math if you change this you need to configure through ``` mathexClass ```
 
 ```html
