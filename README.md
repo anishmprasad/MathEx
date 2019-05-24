@@ -137,3 +137,5 @@ htmlDecode Helper
     }
 
 ```
+### Licence
+GPL
