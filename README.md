@@ -138,4 +138,4 @@ htmlDecode Helper
 
 ```
 ### Licence
-GPL
+GPL 2.0
